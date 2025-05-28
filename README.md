@@ -1,6 +1,6 @@
 # Hi there, I'm Sidharth Rai 👋
- 
-**Lead Software Engineer @ Persistent Systems Limited**  </br>
+
+**Lead Software Engineer @ Persistent Systems Limited**  </br></br>
 _Ex-IBMer | IIIT-B Alumni | Creating apps that change the future of the world_
  
 ---
